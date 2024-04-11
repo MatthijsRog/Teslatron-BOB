@@ -1,0 +1,117 @@
+** Drc report for C:\PhD\Teslatron\Teslatron_BOB\PCB Design\SMA_Feedthrough_Board\SMA_Feedthrough_Board.kicad_pcb **
+** Created on 2024-02-22 17:13:01 **
+
+** Found 27 DRC violations **
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(47.0000 mm, 58.5000 mm): Rect on Edge.Cuts
+    @(185.5000 mm, 51.9000 mm): Line on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(47.0000 mm, 58.5000 mm): Rect on Edge.Cuts
+    @(178.5000 mm, 59.6800 mm): Line on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(47.0000 mm, 58.5000 mm): Rect on Edge.Cuts
+    @(164.4600 mm, 51.8600 mm): Line on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(47.0000 mm, 58.5000 mm): Rect on Edge.Cuts
+    @(157.4600 mm, 59.6400 mm): Line on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(47.0000 mm, 58.5000 mm): Rect on Edge.Cuts
+    @(143.3225 mm, 51.8500 mm): Line on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(47.0000 mm, 58.5000 mm): Rect on Edge.Cuts
+    @(136.3225 mm, 59.6300 mm): Line on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(47.0000 mm, 58.5000 mm): Rect on Edge.Cuts
+    @(122.3225 mm, 51.8500 mm): Line on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(47.0000 mm, 58.5000 mm): Rect on Edge.Cuts
+    @(115.3225 mm, 59.6300 mm): Line on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(47.0000 mm, 58.5000 mm): Rect on Edge.Cuts
+    @(101.3225 mm, 51.8500 mm): Line on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(47.0000 mm, 58.5000 mm): Rect on Edge.Cuts
+    @(94.3225 mm, 59.6300 mm): Line on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(47.0000 mm, 58.5000 mm): Rect on Edge.Cuts
+    @(80.3225 mm, 51.8500 mm): Line on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(47.0000 mm, 58.5000 mm): Rect on Edge.Cuts
+    @(73.3225 mm, 59.6300 mm): Line on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(47.0000 mm, 58.5000 mm): Rect on Edge.Cuts
+    @(178.3225 mm, 138.0500 mm): Line on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(47.0000 mm, 58.5000 mm): Rect on Edge.Cuts
+    @(185.3225 mm, 130.2700 mm): Line on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(47.0000 mm, 58.5000 mm): Rect on Edge.Cuts
+    @(157.3225 mm, 138.0500 mm): Line on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(47.0000 mm, 58.5000 mm): Rect on Edge.Cuts
+    @(164.3225 mm, 130.2700 mm): Line on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(47.0000 mm, 58.5000 mm): Rect on Edge.Cuts
+    @(136.3225 mm, 138.0500 mm): Line on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(47.0000 mm, 58.5000 mm): Rect on Edge.Cuts
+    @(143.3225 mm, 130.2700 mm): Line on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(47.0000 mm, 58.5000 mm): Rect on Edge.Cuts
+    @(115.3225 mm, 138.0500 mm): Line on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(47.0000 mm, 58.5000 mm): Rect on Edge.Cuts
+    @(122.3225 mm, 130.2700 mm): Line on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(47.0000 mm, 58.5000 mm): Rect on Edge.Cuts
+    @(94.3225 mm, 138.0500 mm): Line on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(47.0000 mm, 58.5000 mm): Rect on Edge.Cuts
+    @(101.3225 mm, 130.2700 mm): Line on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(47.0000 mm, 58.5000 mm): Rect on Edge.Cuts
+    @(73.3225 mm, 138.0500 mm): Line on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; Severity: warning
+    @(47.0000 mm, 58.5000 mm): Rect on Edge.Cuts
+    @(80.3225 mm, 130.2700 mm): Line on F.Silkscreen
+[lib_footprint_issues]: The current configuration does not include the library ''.
+    Local override; Severity: warning
+    @(65.8000 mm, 95.6000 mm): Footprint G***
+[starved_thermal]: Thermal relief connection to zone incomplete (zone min spoke count 2; actual 1)
+    Local override; Severity: warning
+    @(47.0000 mm, 58.5000 mm): Zone [GND] on B.Cu
+    @(52.2725 mm, 92.6000 mm): PTH pad 8 [GND] of J13
+[starved_thermal]: Thermal relief connection to zone incomplete (zone min spoke count 2; actual 1)
+    Local override; Severity: warning
+    @(47.0000 mm, 58.5000 mm): Zone [GND] on F.Cu
+    @(52.2725 mm, 92.6000 mm): PTH pad 8 [GND] of J13
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **

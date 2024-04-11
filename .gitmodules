@@ -1,0 +1,6 @@
+[submodule "PCB Design/SMA_Feedthrough_Board/Library"]
+	path = PCB Design/SMA_Feedthrough_Board/Library
+	url = https://github.com/QuantaMap/QuantaMap_ECAD_Library
+[submodule "PCB Design/GND_Switch_Board/Library"]
+	path = PCB Design/GND_Switch_Board/Library
+	url = https://github.com/QuantaMap/QuantaMap_ECAD_Library

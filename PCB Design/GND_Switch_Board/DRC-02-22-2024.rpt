@@ -1,0 +1,13 @@
+** Drc report for C:/PhD/Teslatron/Teslatron_BOB/PCB Design/GND_Switch_Board/GND_Switch_Board.kicad_pcb **
+** Created on 2024-02-22 13:35:07 **
+
+** Found 1 DRC violations **
+[lib_footprint_issues]: The current configuration does not include the library ''.
+    Local override; Severity: warning
+    @(148.0000 mm, 120.0000 mm): Footprint G***
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **

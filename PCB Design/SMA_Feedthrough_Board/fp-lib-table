@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Amphenol_Right_Angle_SMA_901_143_6RFX")(type "KiCad")(uri "${KIPRJMOD}/Library/Connectors/Amphenol_Right_Angle_SMA_901_143_6RFX")(options "")(descr ""))
+  (lib (name "5-1393480-5_Right_Angle_Female_Panel")(type "KiCad")(uri "${KIPRJMOD}/Library/Connectors/9 Pin Sub-D/TE Connectivity/5-1393480-5_Right_Angle_Female_Panel/5-1393480-5_Right_Angle_Female_Panel.pretty")(options "")(descr ""))
+  (lib (name "pcb-mb-01")(type "KiCad")(uri "${KIPRJMOD}/Library/MountingTools/Essentra PCB MB 01 Right Angle Mounting Block/pcb-mb-01.pretty")(options "")(descr ""))
+)
